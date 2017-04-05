@@ -1,0 +1,10 @@
+itemGroup.mttm=Masstech: The Mod
+
+#Items
+item.gem.name=Ruby
+item.gem_sapphire.name=Sapphire
+item.gem_black_diamond.name=Black Diamond
+item.gem_white_diamond.name=White Diamond
+
+#Blocks
+tile.nether_star_block.name=Block of Nether Stars
