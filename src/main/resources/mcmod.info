@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "mttm",
+    "name": "MTTM",
+    "description": "Custom blocks and items for the Masstech mod pack.",
+    "version": "0.0.4",
+    "mcversion": "1.10.2",
+    "url": "http://miningmark48.xyz",
+    "updateUrl": "",
+    "authorList": [
+      "MiningMark48"
+      "HybridAvenger69"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

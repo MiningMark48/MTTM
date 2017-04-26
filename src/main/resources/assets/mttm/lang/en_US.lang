@@ -1,0 +1,23 @@
+itemGroup.mttm=Masstech: The Mod
+
+#Items
+item.gem.name=Ruby
+item.gem_sapphire.name=Sapphire
+item.gem_black_diamond.name=Black Diamond
+item.gem_white_diamond.name=White Diamond
+item.black_diamond_pickaxe.name=Black Diamond Pickaxe
+item.white_diamond_pickaxe.name=White Diamond Pickaxe
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.white_diamond_axe.name=White Diamond Axe
+item.black_diamond_axe.name=Black Diamond Axe
+item.black_diamond_shovel.name=Black Diamond Shovel
+item.ruby_stick.name=Ruby Stick
+
+
+#Blocks
+tile.nether_star_block.name=Block of Nether Stars
+tile.sapphire_block.name=Sapphire Block
+tile.ruby_block.name=Ruby Block
+tile.black_diamond_block.name=Black Diamond Block
+tile.white_diamond_block.name=White Diamond Block
+tile.ruby_ore.name=Ruby Ore
