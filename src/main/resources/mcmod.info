@@ -5,12 +5,12 @@
     "description": "Custom blocks and items for the Masstech mod pack.",
     "version": "0.0.1",
     "mcversion": "1.10.2",
-    "url": "http://miningmark48.xyz",
+    "url": "",
     "updateUrl": "",
     "authorList": [
-      "MiningMark48"
+      "HybridAvenger69"
     ],
-    "credits": "",
+    "credits": "Former Author - MiningMark48",
     "logoFile": "",
     "screenshots": [],
     "dependencies": []
